@@ -1,0 +1,10 @@
+D:\项目开发工具箱\TreeViewEx\TabStrip\bin\Debug\TabStrip.dll
+D:\项目开发工具箱\TreeViewEx\TabStrip\bin\Debug\TabStrip.pdb
+D:\项目开发工具箱\TreeViewEx\TabStrip\obj\Debug\ResolveAssemblyReference.cache
+D:\项目开发工具箱\TreeViewEx\TabStrip\obj\Debug\TabStrip.dll
+D:\项目开发工具箱\TreeViewEx\TabStrip\obj\Debug\TabStrip.pdb
+E:\MyDocuments\TabStrip\bin\Debug\TabStrip.dll
+E:\MyDocuments\TabStrip\bin\Debug\TabStrip.pdb
+E:\MyDocuments\TabStrip\obj\Debug\ResolveAssemblyReference.cache
+E:\MyDocuments\TabStrip\obj\Debug\TabStrip.dll
+E:\MyDocuments\TabStrip\obj\Debug\TabStrip.pdb

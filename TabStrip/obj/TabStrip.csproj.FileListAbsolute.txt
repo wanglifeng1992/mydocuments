@@ -1,0 +1,12 @@
+D:\项目开发工具箱\TreeViewEx\TabStrip\bin\Debug\TabStrip.dll
+D:\项目开发工具箱\TreeViewEx\TabStrip\bin\Debug\TabStrip.pdb
+D:\项目开发工具箱\TreeViewEx\TabStrip\obj\Debug\ResolveAssemblyReference.cache
+D:\项目开发工具箱\TreeViewEx\TabStrip\obj\Debug\FarsiLibrary.Win.FATabStrip.bmp
+D:\项目开发工具箱\TreeViewEx\TabStrip\obj\Debug\TabStrip.dll
+D:\项目开发工具箱\TreeViewEx\TabStrip\obj\Debug\TabStrip.pdb
+D:\项目开发工具箱\TreeViewEx\TabStrip\bin\Release\TabStrip.dll
+D:\项目开发工具箱\TreeViewEx\TabStrip\bin\Release\TabStrip.pdb
+D:\项目开发工具箱\TreeViewEx\TabStrip\obj\Release\ResolveAssemblyReference.cache
+D:\项目开发工具箱\TreeViewEx\TabStrip\obj\Release\FarsiLibrary.Win.FATabStrip.bmp
+D:\项目开发工具箱\TreeViewEx\TabStrip\obj\Release\TabStrip.dll
+D:\项目开发工具箱\TreeViewEx\TabStrip\obj\Release\TabStrip.pdb

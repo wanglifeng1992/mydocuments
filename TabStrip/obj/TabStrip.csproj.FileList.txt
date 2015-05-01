@@ -1,0 +1,12 @@
+bin\Release\TabStrip.dll
+bin\Release\TabStrip.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\FarsiLibrary.Win.FATabStrip.bmp
+obj\Release\TabStrip.dll
+obj\Release\TabStrip.pdb
+bin\Debug\TabStrip.dll
+bin\Debug\TabStrip.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FarsiLibrary.Win.FATabStrip.bmp
+obj\Debug\TabStrip.dll
+obj\Debug\TabStrip.pdb

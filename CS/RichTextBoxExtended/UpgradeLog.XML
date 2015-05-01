@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RichTextBoxExtended">
+</Property><Property Name="解决方案文件" Value="D:\百育教育软件\PBOOK\TreeViewEx\RichTextBoxExtended\RichTextBoxExtended.sln">
+</Property><Property Name="用户选项文件" Value="D:\百育教育软件\PBOOK\TreeViewEx\RichTextBoxExtended\RichTextBoxExtended.suo">
+</Property><Property Name="Date" Value="2006年11月19日">
+</Property><Property Name="Time" Value="14:02">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="RichTextBoxExtended.sln" Description="文件已成功备份为 D:\百育教育软件\PBOOK\TreeViewEx\RichTextBoxExtended\Backup\RichTextBoxExtended.sln">
+</Event><Event ErrorLevel="0" Project="" Source="RichTextBoxExtended.suo" Description="文件已成功备份为 D:\百育教育软件\PBOOK\TreeViewEx\RichTextBoxExtended\Backup\RichTextBoxExtended.suo">
+</Event><Event ErrorLevel="0" Project="RichTextBoxExtended" Source="RichTextBoxExtended.csproj" Description="项目文件已成功备份为 D:\百育教育软件\PBOOK\TreeViewEx\RichTextBoxExtended\Backup\RichTextBoxExtended.csproj">
+</Event><Event ErrorLevel="0" Project="RichTextBoxExtended" Source="RichTextBoxExtended.csproj.user" Description="项目用户文件成功备份为 D:\百育教育软件\PBOOK\TreeViewEx\RichTextBoxExtended\Backup\RichTextBoxExtended.csproj.user">
+</Event><Event ErrorLevel="0" Project="RichTextBoxExtended" Source="AssemblyInfo.cs" Description="文件已成功备份为 D:\百育教育软件\PBOOK\TreeViewEx\RichTextBoxExtended\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="RichTextBoxExtended" Source="RichTextBoxExtended.cs" Description="文件已成功备份为 D:\百育教育软件\PBOOK\TreeViewEx\RichTextBoxExtended\Backup\RichTextBoxExtended.cs">
+</Event><Event ErrorLevel="0" Project="RichTextBoxExtended" Source="RichTextBoxExtended.bmp" Description="文件已成功备份为 D:\百育教育软件\PBOOK\TreeViewEx\RichTextBoxExtended\Backup\RichTextBoxExtended.bmp">
+</Event><Event ErrorLevel="0" Project="RichTextBoxExtended" Source="RichTextBoxExtended.resx" Description="文件已成功备份为 D:\百育教育软件\PBOOK\TreeViewEx\RichTextBoxExtended\Backup\RichTextBoxExtended.resx">
+</Event><Event ErrorLevel="0" Project="RichTextBoxExtended" Source="RichTextBoxExtended.zh-CHS.resx" Description="文件已成功备份为 D:\百育教育软件\PBOOK\TreeViewEx\RichTextBoxExtended\Backup\RichTextBoxExtended.zh-CHS.resx">
+</Event><Event ErrorLevel="0" Project="RichTextBoxExtended" Source="RichTextBoxExtended.csproj" Description="项目文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="RichTextBoxExtended" Source="RichTextBoxExtended.csproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\DemoApp.csproj" Description="项目文件已成功备份为 D:\百育教育软件\PBOOK\TreeViewEx\RichTextBoxExtended\Backup\DemoApp\DemoApp.csproj">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\DemoApp.csproj.user" Description="项目用户文件成功备份为 D:\百育教育软件\PBOOK\TreeViewEx\RichTextBoxExtended\Backup\DemoApp\DemoApp.csproj.user">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\Form1.cs" Description="文件已成功备份为 D:\百育教育软件\PBOOK\TreeViewEx\RichTextBoxExtended\Backup\DemoApp\Form1.cs">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\Form1.resx" Description="文件已成功备份为 D:\百育教育软件\PBOOK\TreeViewEx\RichTextBoxExtended\Backup\DemoApp\Form1.resx">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\DemoApp.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DemoApp" Source="DemoApp\DemoApp.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RichTextBoxExtended.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="RichTextBoxExtended.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\DemoApp.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

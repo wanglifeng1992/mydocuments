@@ -1,0 +1,8 @@
+E:\MyDocuments\Explorer Tree\bin\Debug\WindowsExplorer.dll
+E:\MyDocuments\Explorer Tree\bin\Debug\WindowsExplorer.pdb
+E:\MyDocuments\Explorer Tree\obj\Debug\ResolveAssemblyReference.cache
+E:\MyDocuments\Explorer Tree\obj\Debug\WindowsExplorer.ExplorerTree.resources
+E:\MyDocuments\Explorer Tree\obj\Debug\WindowsExplorer.frmOptions.resources
+E:\MyDocuments\Explorer Tree\obj\Debug\WindowsExplorer.csproj.GenerateResource.Cache
+E:\MyDocuments\Explorer Tree\obj\Debug\WindowsExplorer.dll
+E:\MyDocuments\Explorer Tree\obj\Debug\WindowsExplorer.pdb

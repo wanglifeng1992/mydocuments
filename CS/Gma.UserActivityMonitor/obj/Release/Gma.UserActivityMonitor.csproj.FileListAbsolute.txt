@@ -1,0 +1,6 @@
+D:\BookBoy\CS\Gma.UserActivityMonitor\bin\Release\Gma.UserActivityMonitor.dll
+D:\BookBoy\CS\Gma.UserActivityMonitor\obj\Release\ResolveAssemblyReference.cache
+D:\BookBoy\CS\Gma.UserActivityMonitor\obj\Release\Gma.UserActivityMonitor.dll
+D:\MyDocuments\CS\Gma.UserActivityMonitor\bin\Release\Gma.UserActivityMonitor.dll
+D:\MyDocuments\CS\Gma.UserActivityMonitor\obj\Release\ResolveAssemblyReference.cache
+D:\MyDocuments\CS\Gma.UserActivityMonitor\obj\Release\Gma.UserActivityMonitor.dll

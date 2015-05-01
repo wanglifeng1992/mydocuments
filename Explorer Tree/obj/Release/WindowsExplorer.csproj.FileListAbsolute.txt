@@ -1,0 +1,6 @@
+D:\DOWN\ExplorerTreeSource\Explorer Tree\bin\Release\WindowsExplorer.dll
+D:\DOWN\ExplorerTreeSource\Explorer Tree\obj\Release\ResolveAssemblyReference.cache
+D:\DOWN\ExplorerTreeSource\Explorer Tree\obj\Release\WindowsExplorer.ExplorerTree.resources
+D:\DOWN\ExplorerTreeSource\Explorer Tree\obj\Release\WindowsExplorer.frmOptions.resources
+D:\DOWN\ExplorerTreeSource\Explorer Tree\obj\Release\WindowsExplorer.csproj.GenerateResource.Cache
+D:\DOWN\ExplorerTreeSource\Explorer Tree\obj\Release\WindowsExplorer.dll

@@ -1,0 +1,15 @@
+D:\软体传媒工具\教学支持系统\TreeViewEx\RichTextBoxExtended\bin\RichTextBoxExtended.dll
+D:\软体传媒工具\教学支持系统\TreeViewEx\RichTextBoxExtended\bin\RichTextBoxExtended.pdb
+D:\软体传媒工具\教学支持系统\TreeViewEx\RichTextBoxExtended\bin\zh-CHS\RichTextBoxExtended.resources.dll
+D:\软体传媒工具\教学支持系统\TreeViewEx\RichTextBoxExtended\bin\zh-CN\RichTextBoxExtended.resources.dll
+D:\软体传媒工具\教学支持系统\TreeViewEx\RichTextBoxExtended\obj\Debug\ResolveAssemblyReference.cache
+D:\软体传媒工具\教学支持系统\TreeViewEx\RichTextBoxExtended\obj\Debug\RichTextBoxExtended.RichTextBoxExtended.bmp
+D:\软体传媒工具\教学支持系统\TreeViewEx\RichTextBoxExtended\obj\Debug\RichTextBoxExtended.Properties.Resources.resources
+D:\软体传媒工具\教学支持系统\TreeViewEx\RichTextBoxExtended\obj\Debug\RichTextBoxExtended.RichTextBoxExtended.resources
+D:\软体传媒工具\教学支持系统\TreeViewEx\RichTextBoxExtended\obj\Debug\RichTextBoxExtended.csproj.GenerateResource.Cache
+D:\软体传媒工具\教学支持系统\TreeViewEx\RichTextBoxExtended\obj\Debug\RichTextBoxExtended.RichTextBoxExtended.zh-CHS.resources
+D:\软体传媒工具\教学支持系统\TreeViewEx\RichTextBoxExtended\obj\Debug\RichTextBoxExtended.RichTextBoxExtended.zh-CN.resources
+D:\软体传媒工具\教学支持系统\TreeViewEx\RichTextBoxExtended\obj\Debug\zh-CHS\RichTextBoxExtended.resources.dll
+D:\软体传媒工具\教学支持系统\TreeViewEx\RichTextBoxExtended\obj\Debug\zh-CN\RichTextBoxExtended.resources.dll
+D:\软体传媒工具\教学支持系统\TreeViewEx\RichTextBoxExtended\obj\Debug\RichTextBoxExtended.dll
+D:\软体传媒工具\教学支持系统\TreeViewEx\RichTextBoxExtended\obj\Debug\RichTextBoxExtended.pdb
